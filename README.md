@@ -1,4 +1,4 @@
-Hi, I'm **Rajesh Kumar** — *System Engineer (IT)* 👋
+Hi, I'm **Rajesh Kumar** — *System Engineer (IT)* 
 🖥️ Skilled in Systems Administration • Networking • IT Infrastructure • Windows server • Virtualization •
 
 🔭 **Current Project:** Infrastructure optimization & automated backups
